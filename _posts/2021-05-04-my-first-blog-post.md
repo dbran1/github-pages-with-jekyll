@@ -1,6 +1,6 @@
 ---
-title: "Coolness"
-date: 2021-5-4
+title: "Your blog post title"
+date: 2021-05-04
 ---
 <html>
 <body>
